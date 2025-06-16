@@ -22,11 +22,28 @@
 
 ## Skills Stats
 
-Python      ████████████████████████████████ 75%
-C           ████████                        20%
-HTML        ████████                        20%
-CSS         █████████                      25%
-JavaScript  ██████                        15%
+<div class="skills">
+  <div class="skill">
+    <span>Python</span>
+    <div class="bar" style="width: 75%"></div>
+  </div>
+  <div class="skill">
+    <span>JavaScript</span>
+    <div class="bar" style="width: 15%"></div>
+  </div>
+  <div class="skill">
+    <span>C</span>
+    <div class="bar" style="width: 20%"></div>
+  </div>
+  <div class="skill">
+    <span>HTML</span>
+    <div class="bar" style="width: 20%"></div>
+  </div>
+  <div class="skill">
+    <span>CSS</span>
+    <div class="bar" style="width: 25%"></div>
+  </div>
+</div>
 
 ---
 
