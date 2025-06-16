@@ -15,7 +15,7 @@
     <li><span class="emoji"></span><img src="./assets/icons8-microsoft-office-20.svg" width="20" />Pacote Office (Básico)</li>
     <li><span class="emoji">🇬🇧</span><img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="Inglês" width="20" />Inglês (Intermediário)</li>
     <li><span class="emoji"></span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="20" />Linux (Básico)</li>
-    <li><span class="emoji"></span><img src="./assets/icons8-placa-de-vídeo-20.svg" alt="Hardware" width="20" />Hardware (Básico)</li>
+    <li><span class="emoji"></span><img src="./assets/icons8-placa-de-vídeo-20.png" alt="Hardware" width="20" />Hardware (Básico)</li>
   </ul>
 
 ---
