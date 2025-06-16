@@ -1,5 +1,5 @@
-## Olá! 👋 Eu sou Gabriel Mauss
+<h1>Olá! 👋 Eu sou Gabriel Mauss</h1>
 
-🎓 Estudante de Engenharia de Software | Programar é 10% escrever código e 90% procurar no Google
+<p>🎓 Estudante de Engenharia de Software | Programar é 10% escrever código e 90% procurar no Google</p>
 
-![Python]
+<img scr="assets/python.png" widt="300" alt="Python">
