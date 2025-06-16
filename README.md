@@ -12,7 +12,7 @@
     <li><span class="emoji"></span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="20" />HTML</li>
     <li><span class="emoji"></span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="20" />CSS</li>
     <li><span class="emoji"></span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" />JavaScript</li>
-    <li><span class="emoji">📊</span><img src="" width="20" />Pacote Office (Básico)</li>
+    <li><span class="emoji">📊</span><img src="./assets/icons8-microsoft-office-20.svg" width="20" />Pacote Office (Básico)</li>
     <li><span class="emoji">🇬🇧</span><img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="Inglês" width="20" />Inglês (Intermediário)</li>
     <li><span class="emoji"></span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="20" />Linux (Básico)</li>
     <li><span class="emoji">💻</span><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Computer_icon.svg" alt="Hardware" width="20" />Hardware (Básico)</li>
