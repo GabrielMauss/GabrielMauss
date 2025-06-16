@@ -44,4 +44,4 @@
 
 **Email:** [gbpmauss@gmail.com](mailto:gbpmauss@gmail.com)  
 **Telefone:** (54) 981108291  
-**LinkedIn:** [Seu Perfil](https://www.linkedin.com/in/seu-usuario)
+**LinkedIn:** [Meu Linkedin](https://linkedin.com/in/www.linkedin.com/in/gabriel-mauss-07a441359)
